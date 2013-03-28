@@ -1,0 +1,16 @@
+/* 
+    Document   : myStyle
+    Created on : Mar 27, 2013, 10:19:06 PM
+    Author     : roy
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.spacer{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.spacer-right{
+    margin-right: 5px;
+}
+
